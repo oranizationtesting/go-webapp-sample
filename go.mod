@@ -34,5 +34,5 @@ require (
 	golang.org/x/text v0.3.6
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
 	golang.org/x/tools v0.1.0 // indirect
-	github.com/wcharczuk/go-chart
+	github.com/wcharczuk/go-chart  v0.3.6
 )
